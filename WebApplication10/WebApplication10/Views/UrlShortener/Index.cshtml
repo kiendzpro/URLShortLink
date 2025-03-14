@@ -1,0 +1,68 @@
+@model WebApplication10.Models.UrlShortenRequest
+
+@{
+    ViewData["Title"] = "URL Shortener";
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8 col-lg-6">
+            <div class="card shadow-sm mt-5">
+                <div class="card-body">
+                    <h1 class="card-title text-center mb-4">URL Shortener</h1>
+                    
+                    <form asp-action="ShortenUrl" method="post" class="mb-4">
+                        <div class="form-group">
+                            <label asp-for="Url" class="form-label">Enter a URL to shorten</label>
+                            <div class="input-group">
+                                <input asp-for="Url" class="form-control" placeholder="https://example.com/long-url-to-shorten" />
+                                <button type="submit" class="btn btn-primary">Shorten</button>
+                            </div>
+                            <span asp-validation-for="Url" class="text-danger"></span>
+                        </div>
+                    </form>
+
+                    @if (ViewBag.ShortenedUrl != null)
+                    {
+                        <div class="alert alert-success">
+                            <h5 class="mb-3">Your shortened URL:</h5>
+                            <div class="input-group">
+                                <input type="text" id="shortened-url" class="form-control" value="@ViewBag.ShortenedUrl" readonly />
+                                <button class="btn btn-outline-secondary" type="button" onclick="copyToClipboard()">Copy</button>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+
+            <div class="card shadow-sm mt-4">
+                <div class="card-body">
+                    <h5 class="card-title">API Usage</h5>
+                    <div class="mb-3">
+                        <h6>Shorten a URL:</h6>
+                        <code>GET /api/shorten?url=https://example.com/long-url</code>
+                    </div>
+                    <div>
+                        <h6>Get URL Information:</h6>
+                        <code>GET /api/{shortCode}</code>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function copyToClipboard() {
+            var copyText = document.getElementById("shortened-url");
+            copyText.select();
+            copyText.setSelectionRange(0, 99999);
+            navigator.clipboard.writeText(copyText.value);
+            
+            // Show a tooltip or some indication
+            alert("Copied to clipboard!");
+        }
+    </script>
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+} 

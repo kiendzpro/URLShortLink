@@ -1,0 +1,560 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\models\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\models\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\models\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\models\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\models\\repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\models\\repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\models\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\models\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\models\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\models\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\models\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\models\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\views\\home\\categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\views\\home\\categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\views\\todos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\views\\todos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\views\\todos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\views\\todos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\webapplication10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\webapplication10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\views\\todos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\views\\todos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|c:\\users\\kien4\\onedrive\\ta\u0300i li\u00EA\u0323u\\main\\amd201\\api\\webapplication10\\webapplication10\\views\\todos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52177700-70DC-4C96-A5A7-833C77415860}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\views\\todos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kien4\\source\\repos\\WebApplication10\\WebApplication10\\Migrations\\20250212040108_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250212040108_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\kien4\\source\\repos\\WebApplication10\\WebApplication10\\Migrations\\20250212040108_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\source\\repos\\WebApplication10\\WebApplication10\\Migrations\\20250212040108_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\kien4\\source\\repos\\WebApplication10\\WebApplication10\\Migrations\\20250212040108_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\source\\repos\\WebApplication10\\WebApplication10\\Migrations\\20250212040108_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T03:24:49.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApplication10\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApplication10\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T03:24:48.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "WebApplication10\\Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Models\\Todo.cs",
+              "RelativeToolTip": "WebApplication10\\Models\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T03:24:45.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Models\\Repositories\\TodoRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication10\\Models\\Repositories\\TodoRepository.cs",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Models\\Repositories\\TodoRepository.cs",
+              "RelativeToolTip": "WebApplication10\\Models\\Repositories\\TodoRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T04:21:17.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication10\\Program.cs",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Program.cs",
+              "RelativeToolTip": "WebApplication10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T03:15:38.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApplication10\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebApplication10\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T03:25:08.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication10\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApplication10\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T03:25:10.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication10\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication10\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T03:25:11.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication10\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication10\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T03:25:12.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication10\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication10\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T03:24:42.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Categories.cshtml",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\Home\\Categories.cshtml",
+              "RelativeDocumentMoniker": "WebApplication10\\Views\\Home\\Categories.cshtml",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\Home\\Categories.cshtml",
+              "RelativeToolTip": "WebApplication10\\Views\\Home\\Categories.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T01:54:06.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication10\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication10\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T01:02:39.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication10\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplication10\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:08:38.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WebApplication10\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Models\\Category.cs",
+              "RelativeToolTip": "WebApplication10\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:08:37.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication10\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication10\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T04:43:35.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication10\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication10\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T04:35:29.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication10\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication10\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T04:34:36.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Models\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "WebApplication10\\Models\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Models\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "WebApplication10\\Models\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T04:24:06.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Models\\Repositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "WebApplication10\\Models\\Repositories\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Models\\Repositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "WebApplication10\\Models\\Repositories\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T04:23:25.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Models\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication10\\Models\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Models\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "WebApplication10\\Models\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T04:21:38.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Models\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication10\\Models\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Models\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "WebApplication10\\Models\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T04:20:50.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITodoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Models\\Repositories\\ITodoRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication10\\Models\\Repositories\\ITodoRepository.cs",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Models\\Repositories\\ITodoRepository.cs",
+              "RelativeToolTip": "WebApplication10\\Models\\Repositories\\ITodoRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T04:20:20.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WebApplication10.csproj",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\WebApplication10.csproj",
+              "RelativeDocumentMoniker": "WebApplication10\\WebApplication10.csproj",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\WebApplication10.csproj",
+              "RelativeToolTip": "WebApplication10\\WebApplication10.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-12T04:19:33.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication10\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication10\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T04:06:25.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication10\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication10\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T04:06:08.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication10\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "WebApplication10\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T04:05:46.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication10\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "WebApplication10\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T04:05:20.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\Todos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication10\\Views\\Todos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\Todos\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication10\\Views\\Todos\\Delete.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T04:04:33.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\Todos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication10\\Views\\Todos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\Todos\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication10\\Views\\Todos\\Edit.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T04:04:15.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\Todos\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication10\\Views\\Todos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\Todos\\Create.cshtml",
+              "RelativeToolTip": "WebApplication10\\Views\\Todos\\Create.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T04:03:52.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\Todos\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication10\\Views\\Todos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Views\\Todos\\Index.cshtml",
+              "RelativeToolTip": "WebApplication10\\Views\\Todos\\Index.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T04:03:30.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "WebApplication10\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "WebApplication10\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T04:02:20.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TodosController.cs",
+              "DocumentMoniker": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Controllers\\TodosController.cs",
+              "RelativeDocumentMoniker": "WebApplication10\\Controllers\\TodosController.cs",
+              "ToolTip": "C:\\Users\\kien4\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Main\\AMD201\\API\\WebApplication10\\WebApplication10\\Controllers\\TodosController.cs",
+              "RelativeToolTip": "WebApplication10\\Controllers\\TodosController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIAywCIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T04:01:47.662Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
